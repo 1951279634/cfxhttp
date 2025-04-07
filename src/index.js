@@ -1,7 +1,7 @@
 import { connect } from 'cloudflare:sockets'
 
 // configurations
-const UUID = '' // vless UUID
+const UUID = '72f5151e-35a0-482f-b382-559bb2306316' // vless UUID
 const PROXY = '' // (optional) reverse proxy for CF websites. e.g. example.com
 const LOG_LEVEL = 'info' // debug, info, error, none
 
